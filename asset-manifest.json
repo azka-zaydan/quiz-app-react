@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/quiz-app-react/static/js/main.9946765b.js",
+    "static/media/nattu-adnan-unsplash.jpg": "/quiz-app-react/static/media/nattu-adnan-unsplash.c866d607938d6048d5e1.jpg",
+    "index.html": "/quiz-app-react/index.html",
+    "main.9946765b.js.map": "/quiz-app-react/static/js/main.9946765b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9946765b.js"
+  ]
+}
